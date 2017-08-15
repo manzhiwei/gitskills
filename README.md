@@ -1,5 +1,5 @@
-# gitskills
-Create a new branch is quick & simple?
-yes,but it's still have conflict;
+# gitskill
+Create a new branch is quick and  simple?
 This have a little question;
 This question was fixed;
+
